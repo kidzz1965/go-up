@@ -4,9 +4,9 @@
 # CONFIGURATION
 # Set your Telegram bot token and chat IDs here.
 # =========================================================
-TG_BOT_TOKEN="${TG_BOT_TOKEN}"
-TG_MAIN_CHAT_ID="${TG_MAIN_CHAT_ID}"
-TG_DOWNLOAD_CHAT_ID="${TG_DOWNLOAD_CHAT_ID}"
+TG_BOT_TOKEN="8357288896:AAFROzl_UgmHfsKqaotrwvdFZM-T4qd2VYY"
+TG_MAIN_CHAT_ID="@kidzzdump"
+TG_DOWNLOAD_CHAT_ID="@kidzzdump"
 
 # =========================================================
 # SCRIPT DEFAULTS
